@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-💻 Passionate about building software and solving real-world problems<br>🐍 Experienced in Python, C, and C++<br>🌐 Building web applications with TypeScript, React, HTML, CSS, and JavaScript<br>📚 Currently learning Go and Haskell to expand my backend and functional programming knowledge<br>🚀 Always exploring new technologies and improving my craft<br>⚡ I can solve the Rubik's Cube in under 90 seconds
+💻 Passionate about building software and solving real-world problems<br>🐍 Experienced in Python, C, and C++<br>🌐 Building web applications with TypeScript, React, HTML, CSS, and JavaScript<br>📚 Currently learning Go and Haskell to expand my backend and functional programming knowledge<br>🚀 Always exploring new technologies and improving my craft<br>⚡ I can solve the Rubik's Cube in approximately 40 seconds
 
 
 ## 🌐 Socials:
